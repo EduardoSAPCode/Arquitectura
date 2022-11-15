@@ -22,6 +22,7 @@ public class ctrlProducto implements ActionListener {
         this.frm.btnGuardar.addActionListener(this);
         this.frm.btnModificar.addActionListener(this);
         this.frm.btnEliminar.addActionListener(this);
+        this.frm.btnBuscar.addActionListener(this);
         this.frm.btnLimpiar.addActionListener(this);
 
     }
